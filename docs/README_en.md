@@ -25,4 +25,4 @@ Here are some development environment requirements:
 
 ## REFERENCES OR TOOLS
 
-[A thin c++ json parser](https://github.com/sukai33/yazi-json) by sukai33
+[A tiny c++ json parser](https://github.com/sukai33/yazi-json) by sukai33
