@@ -1,4 +1,0 @@
-"D:\coding-app\CLion 2024.1.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/coding-app/CLion 2024.1.2/bin/ninja/win/x64/ninja.exe" "-DCMAKE_C_COMPILER=C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe" "-DCMAKE_CXX_COMPILER=C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/Llvm/x64/bin/clang-cl.exe" -G Ninja -S D:\ILikeCoding\compiler_tutor\interpreter -B D:\ILikeCoding\compiler_tutor\interpreter\cmake-build-debug
--- Configuring done (0.0s)
--- Generating done (0.0s)
--- Build files have been written to: D:/ILikeCoding/compiler_tutor/interpreter/cmake-build-debug

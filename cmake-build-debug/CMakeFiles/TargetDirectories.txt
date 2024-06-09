@@ -1,3 +1,0 @@
-D:/ILikeCoding/compiler_tutor/interpreter/cmake-build-debug/CMakeFiles/interpreter.dir
-D:/ILikeCoding/compiler_tutor/interpreter/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/ILikeCoding/compiler_tutor/interpreter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
