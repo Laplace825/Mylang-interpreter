@@ -1,0 +1,23 @@
+# ninja log v6
+2	1752	7396276894180109	CMakeFiles/interpreter.dir/token/token.cpp.obj	751baba707b5cfc0
+1752	1949	7396276911680860	D:/ILikeCoding/compiler_tutor/interpreter/bin/interpreter.exe	f790a2f7be177f74
+3	1914	7396274727277103	CMakeFiles/interpreter.dir/lexer/lexer.cpp.obj	e973f1411a1cc97a
+3	2464	7396275607622822	CMakeFiles/interpreter.dir/main.cpp.obj	c9b1db73ec32a2d3
+36	1426	7396286858378800	CMakeFiles/interpreter.dir/json/Parser.cpp.obj	e7e749723d46b529
+2	2057	7396286858046449	CMakeFiles/interpreter.dir/json/Json.cpp.obj	1eb417b4596a681
+68	2398	7396286858700920	CMakeFiles/interpreter.dir/lexer/lexer.cpp.obj	e973f1411a1cc97a
+97	2402	7396286858991575	CMakeFiles/interpreter.dir/token/token.cpp.obj	751baba707b5cfc0
+128	3159	7396286859308638	CMakeFiles/interpreter.dir/main.cpp.obj	c9b1db73ec32a2d3
+3159	3377	7396286889613205	D:/ILikeCoding/compiler_tutor/interpreter/bin/interpreter.exe	3518b4250659a0bd
+35	2125	7396288310670184	CMakeFiles/interpreter.dir/token/token.cpp.obj	751baba707b5cfc0
+2	2136	7396288310347604	CMakeFiles/interpreter.dir/lexer/lexer.cpp.obj	e973f1411a1cc97a
+61	2842	7396288310929483	CMakeFiles/interpreter.dir/main.cpp.obj	c9b1db73ec32a2d3
+2842	3031	7396288338734924	D:/ILikeCoding/compiler_tutor/interpreter/bin/interpreter.exe	3518b4250659a0bd
+3	2485	7396289934261869	CMakeFiles/interpreter.dir/main.cpp.obj	c9b1db73ec32a2d3
+2485	2688	7396289959076442	D:/ILikeCoding/compiler_tutor/interpreter/bin/interpreter.exe	3518b4250659a0bd
+31	2014	7396290359929204	CMakeFiles/interpreter.dir/token/token.cpp.obj	751baba707b5cfc0
+2	2074	7396290359637501	CMakeFiles/interpreter.dir/lexer/lexer.cpp.obj	e973f1411a1cc97a
+58	2868	7396290360202124	CMakeFiles/interpreter.dir/main.cpp.obj	c9b1db73ec32a2d3
+2868	3074	7396290388298762	D:/ILikeCoding/compiler_tutor/interpreter/bin/interpreter.exe	3518b4250659a0bd
+2	2490	7396290579393430	CMakeFiles/interpreter.dir/main.cpp.obj	c9b1db73ec32a2d3
+2491	2694	7396290604278559	D:/ILikeCoding/compiler_tutor/interpreter/bin/interpreter.exe	3518b4250659a0bd
