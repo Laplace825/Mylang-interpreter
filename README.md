@@ -24,4 +24,4 @@
 
 ## 参考 & 使用的开源工具
 
-[A thin c++ json parser](https://github.com/sukai33/yazi-json) by sukai33
+[A tiny c++ json parser](https://github.com/sukai33/yazi-json) by sukai33
