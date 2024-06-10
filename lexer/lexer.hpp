@@ -8,7 +8,7 @@
 #ifndef INTERPRETER_LEXER_HPP
 #define INTERPRETER_LEXER_HPP
 
-#include <token/token.hpp>
+#include <token/Token.hpp>
 
 namespace mylang {
 

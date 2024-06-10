@@ -10,7 +10,7 @@
 #include <lexer/lexer.hpp>
 #include <print>
 #include <sstream>
-#include <token/token.hpp>
+#include <token/Token.hpp>
 
 using namespace mylang::lexer;
 using namespace mylang::token;
