@@ -5,6 +5,8 @@
  * Copyright (c) 2024 laplace . All rights reserved.
  **/
 
+#include <spdlog/spdlog.h>
+
 #include <filesystem>
 #include <fstream>
 #include <json/Json.hpp>
@@ -19,7 +21,7 @@ auto main() -> int
 {
     using std::println;
     // 获取当前可执行文件的路径
-    Lexer lexer("../plus.helang");
+    Lexer lexer("../plus.mylang");
     Json json;
     while (true)
     {
