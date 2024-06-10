@@ -2,7 +2,7 @@
 
 **The English version is [here](./docs/README_en.md).**
 
-基于C++的语言解释器学习,目的是创造一个解释器用于解释Mylang语言。
+基于C++的语言解释器学习(bilibili BV1g84y1Q78U),目的是创造一个解释器用于解释Mylang语言。
 
 ## 要求
 
