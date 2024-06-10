@@ -5,14 +5,14 @@
  * Copyright (c) 2024 laplace . All rights reserved.
  **/
 
-#include "token/token.hpp"
+#include "token/Token.hpp"
 
 #include <format>
 
 using namespace mylang::token;
 using namespace yazi::json;
 
-std::map<Token::Type, std::string> Token::m_names = {
+std::map<Token::Type, std::string> Token::m_type_names = {
     {TOKEN_ILLEGAL, "illegal"}, // 非法符号
     {TOKEN_EOF, "eof"},         // 文件结束
     {TOKEN_INTEGER, "integer"}, // integer
@@ -37,8 +37,8 @@ Token::Type Token::type() const { return m_type; }
 
 std::string Token::name() const
 {
-    auto findName = m_names.find(m_type);
-    return findName != m_names.end() ? findName->second : "";
+    auto findName = m_type_names.find(m_type);
+    return findName != m_type_names.end() ? findName->second : "";
 }
 
 std::string Token::literal() const { return m_literal; }

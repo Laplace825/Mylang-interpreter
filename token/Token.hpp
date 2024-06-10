@@ -53,7 +53,7 @@ public:
 protected:
     Type m_type;
     std::string m_literal;
-    static std::map<Type, std::string> m_names;
+    static std::map<Type, std::string> m_type_names;
 };
 }; // namespace token
 
